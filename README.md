@@ -17,7 +17,7 @@ Legend: ✅ Confirmed working, ❔ Unconfirmed, - Not available in the store
 
 | Game | Tested w/ Steam | Tested w/ Epic |
 |-|-|-|
-| Arcade Paradise | ✅ | ❔ |
+| Arcade Paradise | ✅ | ✅ |
 | Atomic Heart | ✅ | - |
 | The Callisto Protocol | ✅ | - |
 | Celeste | ❔ | ❔ |
