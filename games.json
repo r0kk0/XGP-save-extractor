@@ -4,6 +4,14 @@
         // 1 container, 1 file.
         // Each container contains only one file which name will be the name of the container.
         {
+            "name": "Indiana Jones",
+            "package": "BethesdaSoftworks.ProjectRelic_3275kfvn8vcwc",
+            "handler": "1c1f",
+            "handler_args": {
+                "suffix": ".sav"
+            }
+        },
+        {
             "name": "Atomic Heart",
             "package": "FocusHomeInteractiveSA.579645D26CFD_4hny5m903y3g0",
             "handler": "1c1f",
